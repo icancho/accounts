@@ -1,3 +1,78 @@
+commit c418842f9d8fd9e060c124a2cfe37d1b64af0311
+Author: Nicolas Molina Monroy <nmolina@3dementes.com>
+Date:   Wed Aug 19 15:12:30 2015 -0500
+
+    Cambie ivan.html
+
+commit 07035889ce98346ee88a30f3f9881816777f0352
+Merge: 4f54574 e591d8f
+Author: Nicolas Molina Monroy <nmolina@3dementes.com>
+Date:   Wed Aug 19 15:11:36 2015 -0500
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 4f54574b28b612fa9bb2d613b9173d71acd5ed43
+Author: Nicolas Molina Monroy <nmolina@3dementes.com>
+Date:   Wed Aug 19 15:10:10 2015 -0500
+
+    Cambie otra vez el nicolas.html
+
+commit d4aedc31bd7319762dfdf3ec86edb478ba17b3b7
+Author: Nicolas Molina Monroy <nmolina@3dementes.com>
+Date:   Wed Aug 19 15:08:56 2015 -0500
+
+    Cambie el nicolas.html
+
+commit e591d8fd385eb2f4c981b88ab1d5bb96b302035e
+Merge: 76d9ddf b452ce0
+Author: John Jairo Tamayo <jtamayog@3dementes.com>
+Date:   Wed Aug 19 15:03:33 2015 -0500
+
+    new file ivan.html
+
+commit 76d9ddfc122bbaae8df6899190ee2cf60753545e
+Author: John Jairo Tamayo <jtamayog@3dementes.com>
+Date:   Wed Aug 19 14:59:25 2015 -0500
+
+    new file ivan.html
+
+commit b452ce0d9dac0aea3193347e6bf64d8ee785a41f
+Merge: 44dcb88 0e176ab
+Author: Ivan Ramirez <iramirez@3dementes.com>
+Date:   Wed Aug 19 14:54:42 2015 -0500
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 44dcb88d11102cf3ee0175d07c61067f9f6ca5f8
+Author: Ivan Ramirez <iramirez@3dementes.com>
+Date:   Wed Aug 19 14:47:18 2015 -0500
+
+    este es mi nombre.html
+
+commit 0e176ab5f71bf9d6f580578a35d4c24251a8c89a
+Author: John Jairo Tamayo <jtamayog@3dementes.com>
+Date:   Wed Aug 19 14:44:21 2015 -0500
+
+    add file jtamayog.js
+
+commit e33334fa9d0cab2542de5203f7599f6dab6cd0fd
+Author: Nicolas Molina Monroy <nmolina@3dementes.com>
+Date:   Wed Aug 19 14:41:20 2015 -0500
+
+    Archivo de nicolas.html
+
+commit e64e734d549eb43c36a8683ee6b78f6f80c3ef8b
+Author: Nicolas Molina Monroy <nmolina@3dementes.com>
+Date:   Wed Aug 19 14:38:22 2015 -0500
+
+    Mejoras a la documentacion del readme
+
+commit 420b5bd472d51c0a744ae400ed9a4c0a35aa5591
+Author: Nicolas Molina <nmolina@3dementes.com>
+Date:   Wed Aug 19 19:20:43 2015 +0000
+
+    README.md edited online with Bitbucket
+
 commit 9354b13cdfac65b3a2a014f42a578cdac99571b7
 Author: Nicolas Molina Monroy <nicolas.molina.monroy@gmail.com>
 Date:   Wed Aug 19 14:12:45 2015 -0500
