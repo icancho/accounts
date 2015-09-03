@@ -9,4 +9,6 @@ urlpatterns = patterns('',
 
     url(r'^admin/', include(admin.site.urls)),
     url(r'^home/', views.data_accounts),
+    url(r'^detail/(?P<pk>\d+)/$', views.dates_concepts),
+    url(r'^suma/(?P<pk>\d+)$', views.sum_expense),
 )
