@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {% load staticfiles %}
+  <title>Accounts</title>
+</head>
+<body>
+  {% csrf_token %}
+  {%for x in data_list%}
+    <div class="expense">
+      <ul>
+        <li>{{x.pk}}</li>
+        <li class="total_expeses">{{x.expenses}}</li>
+      </ul>
+      <a href="/detail/{{x.pk}}" title = 'kjhgfd'> ver detalle</a>
+      <button class="sum" data-total="{{x.expenses}}" data-pk="{{x.pk}}"> Sumar</button>
+    </div>
+    
+  {%endfor%}
+  <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="{% static 'js/init.js' %}"></script>
+</body>
+</html>
